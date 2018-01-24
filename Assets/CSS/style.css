@@ -1,0 +1,39 @@
+
+
+body {
+	background: url("../Images/trainBG.jpg");
+	background-size: 100%;
+    background-repeat:repeat;
+	font-family: Verdana;
+	font-size: 14px;
+}
+	/*color: #808080;*/
+.navbar{
+	background-color: #38b6d9;
+}
+
+.PageHeader{
+	background-color: brown;
+	color: white;
+	text-align: center;
+	margin-bottom: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+
+h3{	color: white;
+}
+
+#frmTrain{
+	margin-left: 20px;
+	margin-right: 20px;
+
+}
+
+#footer{
+	text-align: center;
+	font-size: 12px;
+	color: #fff;
+	margin-top: 15px;
+}
